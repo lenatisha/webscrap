@@ -3,8 +3,8 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/lenatisha/webscrap.git
-cd real-estate-webscraper
-# Real Estate Web Scraper 🏠
+cd E-CommercePriceTracker 
+#E-Commerce Price Tracker
 
 A Python-based web scraper to extract real estate listing data and save it into Excel.  
 This project is ideal for learning web scraping, data extraction, and working with Python libraries like **BeautifulSoup**, **Requests**, and **Pandas**.
