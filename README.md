@@ -32,5 +32,5 @@ This project is ideal for learning web scraping, data extraction, and working wi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/lenatisha/real-estate-webscraper.git
+https://github.com/lenatisha/webscrap.git
 cd real-estate-webscraper
