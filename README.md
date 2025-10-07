@@ -1,6 +1,6 @@
 #E-Commerce Price Tracker
 
-1. Clone the repository:
+## 1. Clone the repository:
 ```bash
 git clone https://github.com/lenatisha/webscrap.git
 cd real-estate-webscraper
