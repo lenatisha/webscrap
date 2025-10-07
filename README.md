@@ -1,20 +1,21 @@
-# E-Commerce Price Tracker 
+# E-Commerce Web Scraper 🛒
 
-A Python-based web scraper to extract real estate listing data from websites and save it into Excel.  
+A Python-based web scraper to extract product information from e-commerce websites and save it into Excel or CSV.  
 This project demonstrates web scraping, data extraction, and working with Python libraries like **BeautifulSoup**, **Requests**, and **Pandas**.
 
 ---
 
 ## Features
 
-- Scrapes property details from listing pages:
-  - Title / Description
+- Scrapes product details such as:
+  - Product Name / Title
   - Price
-  - Location / Address (if available)
-  - Listing URL
+  - Availability
+  - Product URL
 - Handles missing data gracefully
-- Saves data to **Excel (`.xlsx`)** for easy analysis
-- Easy to customize for different websites
+- Saves data into **Excel (`products_data.xlsx`)** or **CSV**
+- Easy to customize for different websites or categories
+- Can be extended to track price changes over time
 
 ---
 
@@ -24,7 +25,7 @@ This project demonstrates web scraping, data extraction, and working with Python
 - **Requests** – fetch web pages  
 - **BeautifulSoup (bs4)** – parse HTML  
 - **Pandas** – manage and export data  
-- **OpenPyXL** – write Excel files
+- **OpenPyXL** – write Excel files  
 
 ---
 
