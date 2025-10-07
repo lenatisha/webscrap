@@ -32,6 +32,7 @@ for item in items:
 df = pd.DataFrame(data)
 
 # Step 4: Save to Excel
-df.to_excel("real_estate_data.xlsx", index=False)
+df.to_excel("E-CommercePriceTracker.xlsx", index=False)
 
 print("✅ Data scraped and saved successfully as 'real_estate_data.xlsx'")
+
