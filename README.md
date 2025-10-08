@@ -34,4 +34,4 @@ This project demonstrates web scraping, data extraction, and working with Python
 1. Clone this repository:
 ```bash
 git clone https://github.com/lenatisha/webscrap.git
-cd real-estate-webscraper
+cd E-Commerce Web Scraper
